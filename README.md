@@ -19,3 +19,6 @@ This project simulates the evolutionary dynamics of bacterial populations using 
   - **Periodic Local Extinction Model**: Models localized environmental disturbances leading to periodic extinctions and recolonization.
 
   **Note**: All periodic models incorporate **exponential mutation** to introduce variation in bacterial traits over time.
+
+
+
