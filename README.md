@@ -8,9 +8,9 @@ This project simulates the evolutionary dynamics of bacterial populations using 
 
 - **Bacterial Types and Traits**: Two distinct bacterial phenotypes, type **a** and type **b**, are simulated. The model tracks key traits such as differentiation probabilities (**$d_a$, $d_b$**) and public goods production levels (**$k_a$, $k_b$**) for each bacterium.
 
-- **Reproduction and Differentiation**: The model allows bacteria to reproduce either by self-replication or differentiation into the other type, with probabilities depending on the trait values of the parent bacterium.
+- **Reproduction**: : Reproduction occurs when there is an empty neighboring grid unit around a bacterium. The model allows bacteria to reproduce either by self-replication or differentiation into the other type, with probabilities depending on the bacterium’s own public goods production level and the average public goods available from its neighbors.
 
-- **Death, Diffusion, and Reproduction Processes**: Bacteria undergo random death, diffusion, and reproduction events based on predefined probabilities, with reproduction occurring only when there is an empty neighboring grid unit.
+- **Death and Diffusion Processes**: Bacteria undergo random death and diffusion based on predefined probabilities.
 
 - **Mutation Mechanisms**: Mutation introduces variation into bacterial traits over time, with two mutation models: **Exponential Mutation** and **Linear Mutation**, both affecting the bacterial traits.
 
