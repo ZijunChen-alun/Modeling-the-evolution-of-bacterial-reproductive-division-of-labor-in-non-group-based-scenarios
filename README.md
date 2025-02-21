@@ -18,7 +18,7 @@ This project simulates the evolutionary dynamics of bacterial populations using 
   - **Spore Triggering and Dormancy (STD) Model**: Simulates transitions between active bacterial growth and spore dormancy.
   - **Periodic Local Extinction Model**: Models localized environmental disturbances leading to periodic extinctions and recolonization.
 
-  **Note**: All periodic models incorporate **exponential mutation** to introduce variation in bacterial traits over time.
+  **Note**: **Spore Triggering and Dormancy (STD) Model** and **Periodic Local Extinction Model** incorporate **exponential mutation** to introduce variation in bacterial traits over time.
 
 
 
