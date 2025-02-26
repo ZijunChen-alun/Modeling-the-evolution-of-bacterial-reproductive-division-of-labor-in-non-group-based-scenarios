@@ -1,4 +1,4 @@
-# **Only division of labor emerges by modeling the Evolution of Bacteria in Groups without Inherent and Structured Boundaries**
+# **Only Division of Labor Emerges by Modeling the Evolution of Bacteria in Groups without Inherent and Structured Boundaries**
 
 This project simulates the evolutionary dynamics of bacterial populations using an agent-based computational model. The model is implemented in continuous time and designed to investigate the factors influencing bacterial survival, reproduction, and public goods production. It specifically explores whether the **Low Relatedness Hypothesis** can still drive the emergence of reproductive division of labor in groups without inherent and structured boundaries, such as bacterial populations. The model is adapted from prior studies (e.g., **Devlin et al., 2023**; **Takeuchi et al., 2019**).
 
