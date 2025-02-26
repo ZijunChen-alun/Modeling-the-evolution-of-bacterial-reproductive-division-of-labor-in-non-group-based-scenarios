@@ -41,7 +41,7 @@ To run this model, follow the steps below:
     ./demo 0.1 0.1 0.1 1234 5000 /path/to/input_file.txt
     ```
 
-6. **Change Initial Phenotype Values**: If you need to change the initial phenotype values and intervals for killing bacteria, you must modify them in the source code before compiling the program. These values are defined within the code and are not configurable through command-line parameters.
+6. **Change Initial Phenotype Values and Intervals**: If you need to change the initial phenotype values and intervals for killing bacteria, you must modify them in the source code before compiling the program. These values are defined within the code and are not configurable through command-line parameters.
 
 This will run the simulation with the provided parameters and input file (if applicable).
 
